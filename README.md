@@ -1,2 +1,3 @@
-# clone-home-google
- clone da página inicial do google
+# clone - google
+
+![preview](./.assets/preview.png)
