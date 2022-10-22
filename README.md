@@ -1,6 +1,6 @@
 # clone - google
 
-![preview](assets/preview.png)
+![preview](assets/preview1.png)
 
 >Portifólio
 
